@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="autostart" default="all" basedir=".">
+    <target name="status">
+        <echo message="*** cmd=${cmd}"></echo>
+    </target>
+</project>
